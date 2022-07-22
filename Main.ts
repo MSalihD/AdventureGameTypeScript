@@ -3,7 +3,7 @@ function ceviri(name:string) : string{
 	if(name === "Food")return "Yiyecek";
 	else if(name === "Water")return "Su";
 	else if(name === "Firewood")return "Yakacak Odun";
-}
+} 
 class WRITE{
 	public icerik:string = "";
 	public web:boolean = true;
