@@ -1,7 +1,6 @@
 Macera Oyunu
 ============
-[Oyunu oynamak için buraya bas!](http://maceraoyunu.rabiadilsiz.repl.co/)
-=========================================================================
+# [Oyunu oynamak için buraya bas!](http://maceraoyunu.rabiadilsiz.repl.co/)
 **Not:** Maalesef türkçe karakter gözükmediği için türkçe karakter kullanmadım  
 Java ile yazılan oyunu TypeScript ile yazdım
 
